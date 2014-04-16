@@ -1,4 +1,4 @@
-RPGLogger-MC1.6.2
+RPGLogger
 =================
 
 RPGバトルメッセージ風ログ垂れ流しMOD
